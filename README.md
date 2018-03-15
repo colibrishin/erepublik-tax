@@ -1,2 +1,2 @@
-# erepublik-tax
+# erepublik-tax (OBSOLETE)
 eRepublik Tax Stats Collector
